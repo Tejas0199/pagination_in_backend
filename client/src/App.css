@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 8vw;
+}
+.input-container>div:nth-child(1) {
+  display: flex;
+  gap: 10px;
+}
+.table-container {
+  padding: 10px 8vw;
+}
+.search-input {
+  
+}
